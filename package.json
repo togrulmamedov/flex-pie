@@ -1,0 +1,19 @@
+{
+  "name": "flex-project",
+  "version": "1.0.0",
+  "description": "Project for playing with flexbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/togrulmamedov/flex-pie.git"
+  },
+  "author": "tohrul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/togrulmamedov/flex-pie/issues"
+  },
+  "homepage": "https://github.com/togrulmamedov/flex-pie#readme"
+}
